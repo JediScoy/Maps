@@ -1,0 +1,19 @@
+=================== Installation =================== 
+Step one:
+Go to C:\Users\USERNAME\AppData\Roaming\Wonderdraft\themes
+
+Step two:
+Place the .wonderdraft_theme file in this folder.
+
+Step three:
+Start Wonderdraft, open/create a map, click on Themes (top bar) and select the theme.
+
+=================== Lava texture =================== 
+Step one:
+Go to C:\Users\USERNAME\AppData\Roaming\Wonderdraft\assets
+
+Step two:
+Place the folder Avoro - Gates of Hell in the assets folder
+
+Step three:
+Start Wonderdraft, open/create a map, click on Water texture.

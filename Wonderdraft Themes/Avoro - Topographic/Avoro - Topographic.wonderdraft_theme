@@ -1,0 +1,144 @@
+{
+    "water_texture": "Black & White",
+    "ground_texture": "Black & White",
+    "water_hue": 0.05,
+    "water_saturation": -0.24,
+    "water_value": -0.04,
+    "vignette_strength": 0.42,
+    "coastal_fx_distance": 29.48,
+    "coastline_style": 3,
+    "coastline_color": "0.609024,0.857523,0.933594,1",
+    "landmass_outline_color": "0.59375,0.497914,0.294556,1",
+    "landmass_outline_blend": 2,
+    "freshwater_color": "0.768627,0.909804,0.968627,1",
+    "freshwater_outline_color": "0.592157,0.498039,0.294118,1",
+    "ground_colors": [
+        "0.746094,0.746094,0.746094,1",
+        "0.832031,0.789373,0.676025,1",
+        "0.815686,0.756863,0.639216,1",
+        "0.789063,0.719109,0.533234,1",
+        "0.890625,0.791841,0.556641,1",
+        "0.789063,0.719109,0.533234,1",
+        "0.769531,0.718805,0.444885,1",
+        "0.619608,0.568627,0.360784,1",
+        "0.678431,0.619608,0.423529,1",
+        "0.819608,0.713726,0.478431,1",
+        "0.434991,0.507813,0.25589,1",
+        "0.480928,0.558594,0.266205,1",
+        "0.376471,0.384314,0.188235,1",
+        "0.434991,0.507813,0.25589,1",
+        "0.368046,0.4375,0.176025,1",
+        "0.303562,0.367188,0.127655,1",
+        "0.769531,0.718805,0.444885,1",
+        "0.859375,0.717597,0.516968,1",
+        "0.765625,0.634033,0.382813,1",
+        "0.765625,0.634033,0.382813,1",
+        "0.859375,0.717597,0.516968,1",
+        "0.853455,0.907443,0.921875,1",
+        "0.754944,0.8281,0.847656,1"
+    ],
+    "ground_color_names": [
+        "ATO Urban",
+        "ATO Ground",
+        "ATO Rocks",
+        "ATO Sand",
+        "ATO Sand",
+        "ATO Sand",
+        "ATO Sand",
+        "ATO Grass",
+        "ATO Grass",
+        "ATO Grass",
+        "ATO Forest",
+        "ATO Forest",
+        "ATO Forest",
+        "ATO Forest",
+        "ATO Forest",
+        "ATO Forest",
+        "ATO Grass",
+        "ATO Desert",
+        "ATO Rocks",
+        "ATO Desert",
+        "ATO Rocks",
+        "ATO Ice",
+        "ATO Rocks"
+    ],
+    "path_color": "1,1,1,1",
+    "symbol_custom_colors": [
+        "0,0,0,1",
+        "0,0,0,1",
+        "0,0,0,1"
+    ],
+    "windrose_color": "0,0,0,0.5",
+    "label_presets": {
+        "Park": {
+            "font_name": "IM FELL English",
+            "font_size": 22,
+            "font_color": "0.383747,0.425781,0.194595,0.788039",
+            "font_outline_width": 0,
+            "font_outline_color": "0.36029,0.390625,0.221252,1"
+        },
+        "Place": {
+            "font_name": "IM FELL DW Pica",
+            "font_size": 24,
+            "font_color": "0,0,0,1",
+            "font_outline_width": 0,
+            "font_outline_color": "1,1,1,0.498039"
+        },
+        "Water": {
+            "font_name": "IM FELL DW Pica",
+            "font_size": 24,
+            "font_color": "0.281982,0.479601,0.546875,1",
+            "font_outline_width": 0,
+            "font_outline_color": "1,1,1,0.498039"
+        },
+        "Water - Sea": {
+            "font_name": "IM FELL DW Pica",
+            "font_size": 70,
+            "font_color": "0.281982,0.479601,0.546875,1",
+            "font_outline_width": 0,
+            "font_outline_color": "1,1,1,0.498039"
+        },
+        "Water - River": {
+            "font_name": "IM FELL DW Pica",
+            "font_size": 17,
+            "font_color": "0.281982,0.479601,0.546875,1",
+            "font_outline_width": 0,
+            "font_outline_color": "1,1,1,0.498039"
+        },
+        "Water - Lake": {
+            "font_name": "IM FELL DW Pica",
+            "font_size": 23,
+            "font_color": "0.281982,0.479601,0.546875,1",
+            "font_outline_width": 0,
+            "font_outline_color": "1,1,1,0.498039"
+        },
+        "Topographic - State": {
+            "font_name": "IM FELL DW Pica",
+            "font_size": 60,
+            "font_color": "0,0,0,0.646706",
+            "font_outline_width": 0,
+            "font_outline_color": "1,1,1,0.498039"
+        },
+        "Nature - Beach": {
+            "font_name": "East Sea Dokdo",
+            "font_size": 24,
+            "font_color": "0.660156,0.587215,0.381653,1",
+            "font_outline_width": 0,
+            "font_outline_color": "1,1,1,0.498039"
+        },
+        "Nature - Area": {
+            "font_name": "East Sea Dokdo",
+            "font_size": 60,
+            "font_color": "0.183594,0.183594,0.183594,0.391333",
+            "font_outline_width": 0,
+            "font_outline_color": "1,1,1,0.498039"
+        },
+        "Nature - Forest": {
+            "font_name": "IM FELL English",
+            "font_size": 42,
+            "font_color": "0.383747,0.425781,0.194595,0.788039",
+            "font_outline_width": 0,
+            "font_outline_color": "0.36029,0.390625,0.221252,1"
+        }
+    }
+}

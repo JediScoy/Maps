@@ -1,0 +1,16 @@
+{
+    "city": {
+        "name": "City",
+        "radius": 32,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "normal"
+    },
+    "compass_rose_02": {
+        "name": "Compass Rose 02",
+        "radius": 32,
+        "offset_x": 0,
+        "offset_y": 0,
+        "draw_mode": "custom_colors"
+    }
+}

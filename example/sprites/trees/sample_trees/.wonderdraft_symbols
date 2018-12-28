@@ -1,0 +1,7 @@
+{
+    "name":"Sample Trees",
+    "radius":16,
+    "offset_x":0,
+    "offset_y":-15,
+    "draw_mode":"normal"
+}

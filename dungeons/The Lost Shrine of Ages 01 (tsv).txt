@@ -1,0 +1,35 @@
+																																		
+													F	F	F	F	F	F	F	F	F													
+													F								F													
+									F	F	F	F	F	F	F	F	F	F	F		F													
+									F	F	F	F	F	F	F	F	F	F	F		F													
+									F	F	F	F	F	F	F	F	F	F	F		F	F	F		F	F	F							
+									F	F	F	F	F	F	F	F	F	F	F		F	F	F		F	F	F							
+									F	F	F	F	F	F	F	F	F	F	F		F	F	F		F	F	F							
+									F	F	F	F	F	F	F	F	F	F	F		F	F	F		F	F	F							
+			SDD	SD	F	F	F	DR	F	F	F	F	F	F	F	F	F	F	F		F	F	F	DL	F	F	F		F	F	F			
+									F	F	F	F	F	F	F	F	F	F	F		F	F	F		F	F	F		F	F	F			
+			F	F	F	F	F		F	F	F	F	F	F	F	F	F	F	F		F	F	F		F	F	F	DL	F	F	F			
+			F	F	F	F	F		F	F	F	F	F	F	F	F	F	F	F		F	F	F		DT				F	F	F			
+			F	F	F	F	F	DPL	F	F	F	F	F	F	F	F	F	F	F		F	F	F		F	F	F	DPR	F	F	F			
+					DT														DST		F	F	F								DST			
+	F	F	F	F	F	F	F	DL	F	F	F	F	F	F	F	F	F	F	F	DL	F	F	F		F	F	F	F	F		F	F	F	
+	F	F	F	F	F	F	F		F	F	F	F	F	F	F	F	F	F	F						F	F	F	F	F		F	F	F	
+	F	F	F	F	F	F	F		F	F	F	F	F	F	F	F	F	F	F	DPL	F	F	F	DR	F	F	F	F	F		F	F	F	
+							DT		F	F	F	F	F	F	F	F	F	F	F						F	F	F	F	F		F	F	F	
+	F	F	F				F		F	F	F	F	F	F	F	F	F	F	F						F	F	F	F	F		F	F	F	
+	SU		DB				F								DST										F	F	F	F	F		DST		DT	
+	SUU		F	F	F	DL	F	F	F	F	F	F	F	DPL	F		F	F	F	F	F	F	F	F	F	F	F	F	F		F	F	F	
+			F	F	F		F	F	F	F	F	F	F		F		F	F	F	F	F	F	F		DST						DB			
+			F	F	F		F	F	F	F	F	F	F		F		F	F	F	F	F	F	F		F	F	F	F	F	F	F			
+							F	F	F	F	F	F	F		F		F	F	F	F	F	F	F		F	F	F	F	F	F	F			
+							F	F	F	F	F	F	F		F		F	F	F	F	F	F	F	DL	F	F	F	F	F	F	F			
+							F	F	F	F	F	F	F		F		F	F	F	F	F	F	F											
+							F	F	F	F	F	F	F		F		F	F	F	F	F	F	F		F	F	F							
+							DT				DT		DT		F		F	F	F	F	F	F	F		F	F	F							
+							F	DPR	F	F	F		F		F		F	F	F	F	F	F	F		F	F	F							
+									F	F	F		DB		DB										DT									
+									F	F	F	DL	F	F	F	F	F	F	F	F	F	DPL	F	F	F									
+													F	F	F	F	F	F	F	F	F													
+													F	F	F	F	F	F	F	F	F													
+																																		

@@ -16,8 +16,8 @@
 
 		],
 		"editor_state": {
-			"current_level": 0,
-			"camera_position": "Vector2( 5214.1, 3512 )",
+			"current_level": 1,
+			"camera_position": "Vector2( 4162.12, 2634.17 )",
 			"camera_zoom": 8,
 			"guide_position": "null",
 			"trace_image": null,
@@ -138,7 +138,7 @@
 		"format": 2,
 		"width": 48,
 		"height": 27,
-		"next_node_id": "465",
+		"next_node_id": "4a4",
 		"msi": {
 			"offset_map_size": 512,
 			"max_offset_distance": 0.2,
@@ -155,7 +155,7 @@
 			"0": {
 				"label": "Catacombs",
 				"environment": {
-					"baked_lighting": true,
+					"baked_lighting": false,
 					"ambient_light": "ff272723"
 				},
 				"layers": {
@@ -1701,8 +1701,8 @@
 			"1": {
 				"label": "1",
 				"environment": {
-					"baked_lighting": true,
-					"ambient_light": "ffffffff"
+					"baked_lighting": false,
+					"ambient_light": "ff1e1e1c"
 				},
 				"layers": {
 					"-400": "Below Ground",
@@ -3027,20 +3027,6 @@
 				],
 				"walls": [
 					{
-						"points": "PoolVector2Array( 1536, 1024, 256, 1024 )",
-						"texture": "res://textures/walls/stone.png",
-						"color": "ff605f58",
-						"loop": false,
-						"type": 1,
-						"joint": 1,
-						"normalize_uv": true,
-						"shadow": true,
-						"node_id": "1f6",
-						"portals": [
-
-						]
-					},
-					{
 						"points": "PoolVector2Array( 10240, 1024, 10240, 2304 )",
 						"texture": "res://textures/walls/stone.png",
 						"color": "ff605f58",
@@ -3139,31 +3125,6 @@
 								"wall_distance": 1.722222,
 								"closed": true,
 								"node_id": "1da"
-							}
-						]
-					},
-					{
-						"points": "PoolVector2Array( 3072, 1024, 1536, 1024, 1536, 2304 )",
-						"texture": "res://textures/walls/stone.png",
-						"color": "ff605f58",
-						"loop": false,
-						"type": 1,
-						"joint": 1,
-						"normalize_uv": true,
-						"shadow": true,
-						"node_id": "1cc",
-						"portals": [
-							{
-								"position": "Vector2( 2816, 1024 )",
-								"rotation": 3.141593,
-								"scale": "Vector2( 1, 1 )",
-								"direction": "Vector2( -1, 0 )",
-								"texture": "res://textures/portals/door_00.png",
-								"radius": 128,
-								"wall_id": 460,
-								"wall_distance": 0.166667,
-								"closed": true,
-								"node_id": "1cd"
 							}
 						]
 					},
@@ -3317,31 +3278,6 @@
 						]
 					},
 					{
-						"points": "PoolVector2Array( 4608, 1024, 3072, 1024, 3072, 2304, 4608, 2304 )",
-						"texture": "res://textures/walls/stone.png",
-						"color": "ff605f58",
-						"loop": false,
-						"type": 1,
-						"joint": 1,
-						"normalize_uv": true,
-						"shadow": true,
-						"node_id": "1b3",
-						"portals": [
-							{
-								"position": "Vector2( 3328, 1024 )",
-								"rotation": 3.141593,
-								"scale": "Vector2( 1, 1 )",
-								"direction": "Vector2( -1, 0 )",
-								"texture": "res://textures/portals/door_00.png",
-								"radius": 128,
-								"wall_id": 435,
-								"wall_distance": 0.833333,
-								"closed": true,
-								"node_id": "1c5"
-							}
-						]
-					},
-					{
 						"points": "PoolVector2Array( 6400, 2304, 6400, 1024, 4608, 1024, 4608, 2304 )",
 						"texture": "res://textures/walls/stone.png",
 						"color": "ff605f58",
@@ -3361,33 +3297,8 @@
 								"radius": 128,
 								"wall_id": 434,
 								"wall_distance": 1.857143,
-								"closed": true,
+								"closed": false,
 								"node_id": "1c4"
-							}
-						]
-					},
-					{
-						"points": "PoolVector2Array( 1536, 2304, 6400, 2304 )",
-						"texture": "res://textures/walls/stone.png",
-						"color": "ff605f58",
-						"loop": false,
-						"type": 1,
-						"joint": 1,
-						"normalize_uv": true,
-						"shadow": true,
-						"node_id": "1a8",
-						"portals": [
-							{
-								"position": "Vector2( 6144, 2304 )",
-								"rotation": 0,
-								"scale": "Vector2( 1, 1 )",
-								"direction": "Vector2( 1, 0 )",
-								"texture": "res://textures/portals/door_00.png",
-								"radius": 128,
-								"wall_id": 424,
-								"wall_distance": 0.947368,
-								"closed": true,
-								"node_id": "1c3"
 							}
 						]
 					},
@@ -3403,6 +3314,114 @@
 						"node_id": "1f5",
 						"portals": [
 							{
+								"position": "Vector2( 11264, 2304 )",
+								"rotation": 3.141593,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( -1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 2.111111,
+								"closed": false,
+								"node_id": "498"
+							},
+							{
+								"position": "Vector2( 11008, 2304 )",
+								"rotation": 3.141593,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( -1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 2.166667,
+								"closed": false,
+								"node_id": "497"
+							},
+							{
+								"position": "Vector2( 10752, 2304 )",
+								"rotation": 3.141593,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( -1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 2.222222,
+								"closed": false,
+								"node_id": "496"
+							},
+							{
+								"position": "Vector2( 9728, 2304 )",
+								"rotation": 3.141593,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( -1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 2.444444,
+								"closed": false,
+								"node_id": "495"
+							},
+							{
+								"position": "Vector2( 9472, 2304 )",
+								"rotation": 3.141593,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( -1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 2.5,
+								"closed": false,
+								"node_id": "494"
+							},
+							{
+								"position": "Vector2( 9216, 2304 )",
+								"rotation": 3.141593,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( -1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 2.555556,
+								"closed": false,
+								"node_id": "493"
+							},
+							{
+								"position": "Vector2( 8192, 2304 )",
+								"rotation": 3.141593,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( -1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 2.777778,
+								"closed": false,
+								"node_id": "492"
+							},
+							{
+								"position": "Vector2( 7936, 2304 )",
+								"rotation": 3.141593,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( -1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 2.833333,
+								"closed": false,
+								"node_id": "491"
+							},
+							{
+								"position": "Vector2( 7680, 2304 )",
+								"rotation": 3.141593,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( -1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 2.888889,
+								"closed": false,
+								"node_id": "490"
+							},
+							{
 								"position": "Vector2( 7168, 3200 )",
 								"rotation": 1.570796,
 								"scale": "Vector2( 1, 1 )",
@@ -3411,7 +3430,7 @@
 								"radius": 128,
 								"wall_id": 501,
 								"wall_distance": 3.233333,
-								"closed": true,
+								"closed": false,
 								"node_id": "1dd"
 							},
 							{
@@ -3423,7 +3442,7 @@
 								"radius": 128,
 								"wall_id": 501,
 								"wall_distance": 3.3,
-								"closed": true,
+								"closed": false,
 								"node_id": "1dc"
 							},
 							{
@@ -3435,7 +3454,7 @@
 								"radius": 128,
 								"wall_id": 501,
 								"wall_distance": 3.366667,
-								"closed": true,
+								"closed": false,
 								"node_id": "1de"
 							},
 							{
@@ -3447,7 +3466,7 @@
 								"radius": 128,
 								"wall_id": 501,
 								"wall_distance": 3.433333,
-								"closed": true,
+								"closed": false,
 								"node_id": "1df"
 							},
 							{
@@ -3459,7 +3478,7 @@
 								"radius": 128,
 								"wall_id": 501,
 								"wall_distance": 3.5,
-								"closed": true,
+								"closed": false,
 								"node_id": "1e0"
 							},
 							{
@@ -3471,7 +3490,7 @@
 								"radius": 128,
 								"wall_id": 501,
 								"wall_distance": 3.7,
-								"closed": true,
+								"closed": false,
 								"node_id": "1ea"
 							},
 							{
@@ -3483,7 +3502,7 @@
 								"radius": 128,
 								"wall_id": 501,
 								"wall_distance": 3.766667,
-								"closed": true,
+								"closed": false,
 								"node_id": "1eb"
 							},
 							{
@@ -3495,7 +3514,7 @@
 								"radius": 128,
 								"wall_id": 501,
 								"wall_distance": 3.833333,
-								"closed": true,
+								"closed": false,
 								"node_id": "1ec"
 							},
 							{
@@ -3507,7 +3526,7 @@
 								"radius": 128,
 								"wall_id": 501,
 								"wall_distance": 3.9,
-								"closed": true,
+								"closed": false,
 								"node_id": "1ed"
 							},
 							{
@@ -3519,7 +3538,7 @@
 								"radius": 128,
 								"wall_id": 501,
 								"wall_distance": 4.458333,
-								"closed": true,
+								"closed": false,
 								"node_id": "1ef"
 							},
 							{
@@ -3531,7 +3550,7 @@
 								"radius": 128,
 								"wall_id": 501,
 								"wall_distance": 4.541667,
-								"closed": true,
+								"closed": false,
 								"node_id": "1ee"
 							},
 							{
@@ -3543,7 +3562,7 @@
 								"radius": 128,
 								"wall_id": 501,
 								"wall_distance": 5.1,
-								"closed": true,
+								"closed": false,
 								"node_id": "1e9"
 							},
 							{
@@ -3555,7 +3574,7 @@
 								"radius": 128,
 								"wall_id": 501,
 								"wall_distance": 5.166667,
-								"closed": true,
+								"closed": false,
 								"node_id": "1e8"
 							},
 							{
@@ -3567,7 +3586,7 @@
 								"radius": 128,
 								"wall_id": 501,
 								"wall_distance": 5.233333,
-								"closed": true,
+								"closed": false,
 								"node_id": "1e7"
 							},
 							{
@@ -3579,7 +3598,7 @@
 								"radius": 128,
 								"wall_id": 501,
 								"wall_distance": 5.3,
-								"closed": true,
+								"closed": false,
 								"node_id": "1e6"
 							},
 							{
@@ -3591,7 +3610,7 @@
 								"radius": 128,
 								"wall_id": 501,
 								"wall_distance": 5.5,
-								"closed": true,
+								"closed": false,
 								"node_id": "1e5"
 							},
 							{
@@ -3603,7 +3622,7 @@
 								"radius": 128,
 								"wall_id": 501,
 								"wall_distance": 5.566667,
-								"closed": true,
+								"closed": false,
 								"node_id": "1e4"
 							},
 							{
@@ -3615,7 +3634,7 @@
 								"radius": 128,
 								"wall_id": 501,
 								"wall_distance": 5.633333,
-								"closed": true,
+								"closed": false,
 								"node_id": "1e3"
 							},
 							{
@@ -3627,7 +3646,7 @@
 								"radius": 128,
 								"wall_id": 501,
 								"wall_distance": 5.7,
-								"closed": true,
+								"closed": false,
 								"node_id": "1e2"
 							},
 							{
@@ -3639,8 +3658,363 @@
 								"radius": 128,
 								"wall_id": 501,
 								"wall_distance": 5.766666,
-								"closed": true,
+								"closed": false,
 								"node_id": "1e1"
+							},
+							{
+								"position": "Vector2( 3840, 2304 )",
+								"rotation": 3.141593,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( -1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 6.066667,
+								"closed": false,
+								"node_id": "4a3"
+							},
+							{
+								"position": "Vector2( 3584, 2304 )",
+								"rotation": 3.141593,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( -1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 6.133333,
+								"closed": false,
+								"node_id": "4a2"
+							},
+							{
+								"position": "Vector2( 3328, 2304 )",
+								"rotation": 3.141593,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( -1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 6.2,
+								"closed": false,
+								"node_id": "4a1"
+							},
+							{
+								"position": "Vector2( 2816, 2304 )",
+								"rotation": 3.141593,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( -1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 6.333333,
+								"closed": false,
+								"node_id": "48e"
+							},
+							{
+								"position": "Vector2( 2560, 2304 )",
+								"rotation": 3.141593,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( -1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 6.4,
+								"closed": false,
+								"node_id": "48d"
+							},
+							{
+								"position": "Vector2( 2304, 2304 )",
+								"rotation": 3.141593,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( -1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 6.466667,
+								"closed": false,
+								"node_id": "49f"
+							},
+							{
+								"position": "Vector2( 1536, 256 )",
+								"rotation": 0,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( 1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 16.049999,
+								"closed": false,
+								"node_id": "486"
+							},
+							{
+								"position": "Vector2( 1792, 256 )",
+								"rotation": 0,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( 1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 16.1,
+								"closed": false,
+								"node_id": "485"
+							},
+							{
+								"position": "Vector2( 2048, 256 )",
+								"rotation": 0,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( 1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 16.15,
+								"closed": false,
+								"node_id": "484"
+							},
+							{
+								"position": "Vector2( 2304, 256 )",
+								"rotation": 0,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( 1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 16.200001,
+								"closed": false,
+								"node_id": "483"
+							},
+							{
+								"position": "Vector2( 2560, 256 )",
+								"rotation": 0,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( 1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 16.25,
+								"closed": false,
+								"node_id": "482"
+							},
+							{
+								"position": "Vector2( 2816, 256 )",
+								"rotation": 0,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( 1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 16.299999,
+								"closed": false,
+								"node_id": "481"
+							},
+							{
+								"position": "Vector2( 3072, 256 )",
+								"rotation": 0,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( 1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 16.35,
+								"closed": false,
+								"node_id": "480"
+							},
+							{
+								"position": "Vector2( 3328, 256 )",
+								"rotation": 0,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( 1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 16.4,
+								"closed": false,
+								"node_id": "47f"
+							},
+							{
+								"position": "Vector2( 3584, 256 )",
+								"rotation": 0,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( 1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 16.450001,
+								"closed": false,
+								"node_id": "47e"
+							},
+							{
+								"position": "Vector2( 3840, 256 )",
+								"rotation": 0,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( 1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 16.5,
+								"closed": false,
+								"node_id": "47d"
+							},
+							{
+								"position": "Vector2( 4096, 256 )",
+								"rotation": 0,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( 1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 16.549999,
+								"closed": false,
+								"node_id": "47c"
+							},
+							{
+								"position": "Vector2( 4352, 256 )",
+								"rotation": 0,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( 1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 16.6,
+								"closed": false,
+								"node_id": "47b"
+							},
+							{
+								"position": "Vector2( 4608, 256 )",
+								"rotation": 0,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( 1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 16.65,
+								"closed": false,
+								"node_id": "47a"
+							},
+							{
+								"position": "Vector2( 4864, 256 )",
+								"rotation": 0,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( 1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 16.700001,
+								"closed": false,
+								"node_id": "479"
+							},
+							{
+								"position": "Vector2( 5120, 256 )",
+								"rotation": 0,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( 1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 16.75,
+								"closed": false,
+								"node_id": "478"
+							},
+							{
+								"position": "Vector2( 5376, 256 )",
+								"rotation": 0,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( 1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 16.799999,
+								"closed": false,
+								"node_id": "477"
+							},
+							{
+								"position": "Vector2( 5632, 256 )",
+								"rotation": 0,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( 1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 16.85,
+								"closed": false,
+								"node_id": "476"
+							},
+							{
+								"position": "Vector2( 5888, 256 )",
+								"rotation": 0,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( 1, 0 )",
+								"texture": "res://textures/portals/window_02.png",
+								"radius": 128,
+								"wall_id": 501,
+								"wall_distance": 16.9,
+								"closed": false,
+								"node_id": "475"
+							}
+						]
+					},
+					{
+						"points": "PoolVector2Array( 4608, 2304, 4096, 2304 )",
+						"texture": "res://textures/walls/stone.png",
+						"color": "ff605f58",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "499",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 4608, 1024, 3072, 1024, 3072, 2304 )",
+						"texture": "res://textures/walls/stone.png",
+						"color": "ff605f58",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "49a",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 3072, 1024, 2048, 1024, 2048, 2304 )",
+						"texture": "res://textures/walls/stone.png",
+						"color": "ff605f58",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "49b",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 4608, 2304, 6400, 2304 )",
+						"texture": "res://textures/walls/stone.png",
+						"color": "ff605f58",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": true,
+						"node_id": "49c",
+						"portals": [
+							{
+								"position": "Vector2( 6144, 2304 )",
+								"rotation": 0,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( 1, 0 )",
+								"texture": "res://textures/portals/door_00.png",
+								"radius": 128,
+								"wall_id": 1180,
+								"wall_distance": 0.857143,
+								"closed": true,
+								"node_id": "4a0"
 							}
 						]
 					}
@@ -3680,13 +4054,48 @@
 
 				],
 				"lights": [
-
+					{
+						"position": "Vector2( 0, 4224 )",
+						"range": 20,
+						"intensity": 1,
+						"color": "ffeccd8b",
+						"texture": "res://textures/lights/fragments.png",
+						"shadows": true,
+						"node_id": "467"
+					},
+					{
+						"position": "Vector2( 6784, -512 )",
+						"range": 20,
+						"intensity": 1,
+						"color": "ffeccd8b",
+						"texture": "res://textures/lights/fragments.png",
+						"shadows": true,
+						"node_id": "46b"
+					},
+					{
+						"position": "Vector2( 12288, 3840 )",
+						"range": 20,
+						"intensity": 1,
+						"color": "ffeccd8b",
+						"texture": "res://textures/lights/fragments.png",
+						"shadows": true,
+						"node_id": "46e"
+					},
+					{
+						"position": "Vector2( 5632, 6784 )",
+						"range": 20,
+						"intensity": 1,
+						"color": "ffeccd8b",
+						"texture": "res://textures/lights/fragments.png",
+						"shadows": true,
+						"node_id": "470"
+					}
 				]
 			},
 			"2": {
 				"label": "Ground",
 				"environment": {
-					"baked_lighting": true,
+					"baked_lighting": false,
 					"ambient_light": "ffffffff"
 				},
 				"layers": {
